@@ -1,5 +1,4 @@
-# -mmm
-<!DOCTYPE index.html>
+# -fashion
 <index.html>
 <head>
 <meta charset="utf-8">
